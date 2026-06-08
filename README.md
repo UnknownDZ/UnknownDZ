@@ -32,4 +32,4 @@ Do not waste your bandwidth attempting to probe the firewall of my intent.
 *“You are looking for someone who doesn’t want to be found.”*
 
 ---
-*Last handshake: NULL*
+*Last handshake: /room village afk*
