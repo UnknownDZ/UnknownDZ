@@ -1,16 +1,35 @@
-## Hi there 👋
+# 0x00: social_engineering_dont_work_on_me
 
-<!--
-**UnknownDZ/UnknownDZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "The most effective deception is the one you believe is your own truth."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [ STATUS: DISCONNECTED ]
+
+| Layer | Protocol | Status |
+| :--- | :--- | :--- |
+| **Cognitive** | Pattern Recognition | `ACTIVE` |
+| **Logic** | Heuristic Analysis | `BYPASS_DETECTED` |
+| **Social** | Manipulation | `NULL_RESPONSE` |
+
+---
+
+### // Abstract
+I do not exist in the vectors you scan. I am the anomaly in your data set. 
+Attempts at social manipulation will be met with recursive logic traps. 
+Do not waste your bandwidth attempting to probe the firewall of my intent.
+
+* **Human Factor:** Filtered.
+* **Trust:** Zero-trust architecture enforced.
+* **Communication:** Asynchronous and encrypted.
+
+---
+
+### // Terminal Access
+`> ACCESS_DENIED`
+`> SYSTEM_ROOT_REDIRECTION_IN_PROGRESS...`
+
+*“You are looking for someone who doesn’t want to be found.”*
+
+---
+*Last handshake: NULL*
