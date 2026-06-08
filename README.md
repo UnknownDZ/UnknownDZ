@@ -22,7 +22,11 @@ Do not waste your bandwidth attempting to probe the firewall of my intent.
 * **Human Factor:** Filtered.
 * **Trust:** Zero-trust architecture enforced.
 * **Communication:** Asynchronous and encrypted.
-
+```diff
+- [SYSTEM ALERT]: Social Engineering Protocol Blocked
++ [STATUS]: Security Clearance Level 0
+! [WARNING]: Unauthorized attempts will be logged
+```
 ---
 
 ### // Terminal Access
